@@ -15,7 +15,7 @@ name                     : &name
 description              : &description 
 url                      : https://github.com/aetherscry/ethics_fall2025_jackson #  Use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/aetherscry/ethics_fall2025_jackson" 
+repository               : "https://github.com/chefs-kiss/ethics_fall2025" 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -57,14 +57,14 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "dami.daze" # Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : # Username
+  steam            : "aetherscry" # Username
   telegram         : # URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
