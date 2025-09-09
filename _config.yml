@@ -23,12 +23,12 @@ repository               : "https://github.com/chefs-kiss/ethics_fall2025"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "First Last" #update
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left hand sidebar"
+  name             : "Damien Jackson" #update
+  pronouns         : "He/Him" # example: "she/her"  
+  bio              : "Computer Science Major | Education Concentration"
   employer         : "St. Olaf College"
   uri              : # URL
-  email            : "[username]@stolaf.edu" #update
+  email            : "jackso26@stolaf.edu" #update
 
   # links
   academia         : # URL
@@ -50,7 +50,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
   artstation       : # Username
-  bluesky          : # username
+  bluesky          : "aetherscry.bsky.social" # username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
