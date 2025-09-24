@@ -16,17 +16,14 @@ Education
 
 Work experience
 ======
-* Fall 2025 - Current
-  * Buntrock Commons Info. Desk - St. Olaf College
+* Buntrock Commons Info. Desk - St. Olaf College | Fall 2025 - Current
   * Duties includes: Clerical work, document management, event preperation, etc. 
 
-* Spring 2025 - Current
-  * Queer Ole Individuals (QOI) Exec. Communications Chair - St. Olaf
+* Queer Ole Individuals (QOI) Exec. Communications Chair - St. Olaf | Spring 2025 - Current
   * Plans and executes campus-wide events.
   * Responsible for clear communication between QOI and other organizations on campus.
 
-* Spring 2025
-  * World Language AAA Assistant - St. Olaf College
+* World Language AAA Assistant - St. Olaf College | Spring 2025
   * Duties includes: document management, poster design, data entry, etc.
 
 * Volunteer Work
