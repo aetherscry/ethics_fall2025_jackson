@@ -16,17 +16,17 @@ Education
 
 Work experience
 ======
-* Buntrock Commons Info. Desk - St. Olaf College | Fall 2025 - Current
+Buntrock Commons Info. Desk - St. Olaf College | Fall 2025 - Current
   * Duties includes: Clerical work, document management, event preperation, etc. 
 
-* Queer Ole Individuals (QOI) Exec. Communications Chair - St. Olaf | Spring 2025 - Current
+Queer Ole Individuals (QOI) Exec. Communications Chair - St. Olaf | Spring 2025 - Current
   * Plans and executes campus-wide events.
   * Responsible for clear communication between QOI and other organizations on campus.
 
-* World Language AAA Assistant - St. Olaf College | Spring 2025
+World Language AAA Assistant - St. Olaf College | Spring 2025
   * Duties includes: document management, poster design, data entry, etc.
 
-* Volunteer Work
+Volunteer Work | Ongoing
   * Coon Rapids LEO's Club Member (2019-2023)
   * Recieved an academic letter for reported volunteer hours.
   * Assisted in planning and running community events. 
