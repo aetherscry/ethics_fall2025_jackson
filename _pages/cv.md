@@ -11,32 +11,52 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* High School Diploma 
+* Junior at St. Olaf College - CS Major, Educ. Studies Concentration
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025 - Current
+  * Buntrock Commons Info. Desk - St. Olaf College
+  * Duties includes: Clerical work, document management, event preperation, etc. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2025 - Current
+  * Queer Ole Individuals (QOI) Exec. Communications Chair - St. Olaf
+  * Plans and executes campus-wide events.
+  * Responsible for clear communication between QOI and other organizations on campus.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2025
+  * World Language AAA Assistant - St. Olaf College
+  * Duties includes: document management, poster design, data entry, etc.
+
+* Volunteer Work
+  * Coon Rapids LEO's Club Member (2019-2023)
+  * Recieved an academic letter for reported volunteer hours.
+  * Assisted in planning and running community events. 
+  * Volunteered for a diverse range of organizations, and have worked in many settings. (Ex: Feed My Starving Children, the Minnesota State Fair, Anoka-Hennepin Elementary Schools, etc.)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Digital Art 
+* Graphic design
+* Computer Science
+  * JavaScript
+  * C++/C
+  * Git
+  * ARM Assembly
+* Video Editing
+* Clerical Support
+* Instructional Techniques
+
+Software
+======
+* Proficient with Canva
+* Skilled with Digital Art programs, such as Clip Studio Paint and Adobe Illustrator.
+* Familiar with Adobe Programs, such as Photoshop, Acrobat, etc.
+* Familiar with Microsoft Programs, such as Word, Excel, etc.
+
+Languages 
+======
+* English (Fluent)
+* Japanese (Intermediate)
+* German (Beginner)
