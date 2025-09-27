@@ -1,9 +1,11 @@
 ---
-title: "Podcast 1"
+title: "Podcast 1 | P5 Confidants & Ethical Frameworks"
 collection: podcasts
 permalink: /podcasts/podcast1
-excerpt: "Let's chat about ethical frameworks in X,Y,Z."
-date: 2009-10-01
-audio: ethics_fall2025/files/strings.mp3
+excerpt: "Discussing ethical frameworks with Persona 5 characters"
+date: 2025-09-26
+audio: ethics_fall2025/files/podcast_1_ethics.mp3
+video: ethics_fall2025/files/Czarnik_Jackson_Podcast.mp4
 ---
-Details about the podcast.
+
+In this podcast, Hero Czarnik and I discuss the application of ethical frameworks to different characters in the [*Persona 5*](https://en.wikipedia.org/wiki/Persona_5) universe.
