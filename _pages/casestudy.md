@@ -8,8 +8,11 @@ Drop spot for your case study work
 
 ## Overview
 
-For your semester project, you and a partner will create an original case study
-modeled after those we read in class. Your case study must present an ethical issue in computing and can focus on any topic of your choosing. Some possible ideas include algorithmic bias and discrimination, surveillance technologies, facial recognition, data privacy, misinformation and deepfakes, generative AI and authorship, the climate impact of computing, digital labor and gig work, cybersecurity and hacking, accessibility and inclusion in technology, militarization of technology, AI companionship and social robotics, and cryptocurrency, though you are encouraged to select a topic not found on this list if it aligns with your interests and research.
+Digital Licensing 
+
+- Adobe & Digital "Tools" 
+- "Stop Killing Games"
+- Consumer rights
 
 ## Requirements
 
