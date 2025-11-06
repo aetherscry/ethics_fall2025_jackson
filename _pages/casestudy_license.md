@@ -1,5 +1,5 @@
 ---
-permalink: /case-study_license/
+permalink: /casestudy_license/
 title: "Digital Licenses & Owner Rights"
 author_profile: true
 ---
@@ -18,11 +18,11 @@ Selling game/software accounts as is
 
 ## See more
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_games/)
+["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 
-["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_tools/)
+["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_activity/)
+["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
 
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 

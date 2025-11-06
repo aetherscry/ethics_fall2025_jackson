@@ -1,5 +1,5 @@
 ---
-permalink: /case-study_tools/
+permalink: /casestudy_tools/
 title: "Digital Tools"
 author_profile: true
 ---
@@ -19,11 +19,11 @@ DeviantArt DreamUp / Twitter (X)’s Grok Image Generator - Should people have t
 
 ## See more
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_games/)
+["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 
-["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_license/)
+["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_activity/)
+["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
 
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 
