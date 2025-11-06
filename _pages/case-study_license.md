@@ -18,10 +18,13 @@ Selling game/software accounts as is
 
 ## See more
 
-Digital Video Games
-Digital Software Tools & Websites
+["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/games/)
 
-Activity
+["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/tools/)
+
+["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/activity/)
+
+["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 
 ## Sources
 ["A License Revocation Protocol Supporting Digital License Reselling in a Consumer-to-Consumer Model"](https://www.webofscience.com/wos/woscc/full-record/WOS:000419456400017)

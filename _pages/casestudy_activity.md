@@ -4,15 +4,14 @@ title: "Case Study"
 author_profile: true
 ---
 
-Drop spot for your case study work
+This will be where the activity will go
 
-## Overview
+## General Idea:
 
-Digital Licensing 
-
-- Adobe & Digital "Tools" 
-- "Stop Killing Games"
-- Consumer rights
+I want to have a small MS-paint or notebook-like program:
+- The buttons will randomly change/turn off
+- The user interface will randomly switch around
+- The entire process sucks and it’s the entire point
 
 ## See more
 
@@ -22,6 +21,4 @@ Digital Licensing
 
 ["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/license/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/activity/)
-
-## Sources
+["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)

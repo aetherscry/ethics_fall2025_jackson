@@ -21,9 +21,12 @@ You bought a game, but can no longer play it. What now??
 
 ## See more
 
-Digital Software Tools & Websites
-Digital Licenses & Consumer Rights Conversations
+["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/tools/)
 
-Activity
+["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/license/)
+
+["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/activity/)
+
+["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 
 ## Sources
