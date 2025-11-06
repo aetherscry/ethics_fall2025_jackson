@@ -1,0 +1,29 @@
+---
+permalink: /case-study_games/
+title: '"Stop Killing Games"'
+author_profile: true
+---
+
+This is a page not in the menu. You can use markdown in this page.
+
+## Company Side
+
+Game servers aren't cheap
+If nobody is playing a co-op game, should they keep paying for the server?
+Potential year availability minimum upon launching game servers
+
+
+## Consumer Side
+
+You bought a game, but can no longer play it. What now??
+- Putting money into cosmetics
+- I can probably mention the Counter Strike stock market crash incident
+
+## See more
+
+Digital Software Tools & Websites
+Digital Licenses & Consumer Rights Conversations
+
+Activity
+
+## Sources
