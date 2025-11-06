@@ -19,11 +19,11 @@ DeviantArt DreamUp / Twitter (X)’s Grok Image Generator - Should people have t
 
 ## See more
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/games/)
+["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_games/)
 
-["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/license/)
+["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_license/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/activity/)
+["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/case-study_activity/)
 
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 
