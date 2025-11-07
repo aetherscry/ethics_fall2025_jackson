@@ -1,6 +1,6 @@
 ---
 permalink: /casestudy_solutions/
-title: "Digital Tools"
+title: "Are there Soluations??"
 author_profile: true
 ---
 
@@ -9,6 +9,8 @@ So what do we do about it?
 - Potential digital license resale
 - Refunds (unlikely to be realistic)
 - Alternatively, partial refunds for selling licensing/cancelling software subscription 
+
+## Menu
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 
