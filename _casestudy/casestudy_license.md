@@ -2,6 +2,7 @@
 permalink: /casestudy_license/
 title: "Digital Licenses & Owner Rights"
 author_profile: true
+layout: default
 ---
 
 This page is dedicated to covering some of the general propositions and concerns related to digital licensing, as opposed to specific areas. 

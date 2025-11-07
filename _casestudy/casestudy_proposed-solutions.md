@@ -2,6 +2,7 @@
 permalink: /casestudy_solutions/
 title: "Are there Soluations??"
 author_profile: true
+layout: default
 ---
 
 So what do we do about it?
