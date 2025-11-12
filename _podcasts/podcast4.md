@@ -3,7 +3,7 @@ title: "Overclocked ep. 4 | 'Scrap Metal' - Black Mirror Concept"
 collection: podcasts
 permalink: /podcasts/podcast4
 excerpt: "Hero and I pitch a new Black Mirror episode."
-date: 2025-10-28
+date: 2025-11-12
 audio: ethics_fall2025_jackson/files/overclocked-ep-4.mp3 
 video: ethics_fall2025_jackson/files/overclocked-video-4.mp4
 ---
