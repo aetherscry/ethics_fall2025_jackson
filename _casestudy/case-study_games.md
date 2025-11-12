@@ -9,7 +9,9 @@ This is a page not in the menu. You can use markdown in this page.
 
 ## What is "Stop Killing Games?"
 
-Background of the movement.
+According to it’s official website: “Stop Killing Games" is a consumer movement started to challenge the legality of publishers destroying video games they have sold to customers. An increasing number of video games are sold effectively as goods - with no stated expiration date - but designed to be completely unplayable as soon as support from the publisher ends. This practice is a form of planned obsolescence and is not only detrimental to customers, but makes preservation effectively impossible.”
+Stop Killing Games is a movement that started in April 2024. It was born from a history of outrage towards video game publishers shutting down their games’ support and servers, effectively making the consumer’s copy of those games obsolete. This sparked a debate about the legality of the practice, and what rights consumers actually should have. 
+
 
 ## Company Side
 
@@ -35,3 +37,5 @@ You bought a game, but can no longer play it. What now??
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 
 ## Sources
+
+["Stop Killing Games"](https://www.stopkillinggames.com/)
