@@ -10,7 +10,13 @@ This is about licenses/websites that propose a service & subscription, but can t
 
 ## Adobe's Power Trip
 
-Adobe’s backlash with AI having full access to “view” and “scan” the work made with their software. Only after backlash did they “clarify”
+Adobe’s backlash with AI having full access to “view” and “scan” the work made with their software. Only after backlash did they “clarify.” 
+
+They posted a blog post with a few clarifications to what they meant by the privacy policy. Although, when highlighting what they updated, they didn't actually change much.
+- Only a few changes to the text itself were made.
+- The content itself didn't change much.
+
+
 
 ## Image Generation vs. Artists
 
@@ -29,3 +35,5 @@ DeviantArt DreamUp / Twitter (X)’s Grok Image Generator - Should people have t
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
 
 ## Sources
+
+Potential: https://www.engadget.com/adobe-is-updating-its-terms-of-service-following-a-backlash-over-recent-changes-120044152.html
