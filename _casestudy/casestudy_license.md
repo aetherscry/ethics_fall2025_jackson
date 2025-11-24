@@ -17,7 +17,7 @@ Selling game/software accounts as is
 
 ## Heading 2
 
-## See more
+#### See more
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 

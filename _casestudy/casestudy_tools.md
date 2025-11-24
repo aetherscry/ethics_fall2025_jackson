@@ -22,7 +22,7 @@ A few notes that I feel are important to point out in [“Adobe’s clarificatio
 This initial controversy raised a lot of questions with the software’s user base. Especially to those already feeling frustration towards Adobe’s business practices. And although Adobe had issued corrections that placated (some) concerned users, I find that this situation has many ethical questions we can take from it and consider:
 
 
-###Cancellation Fees
+### Cancellation Fees
 
 Adobe charges a [“cancellation fee”](https://helpx.adobe.com/manage-account/using/creative-cloud-subscription-terms.html) for users ending their subscriptions early, causing another layer of complication to any concerning policy changes. 
 
@@ -30,7 +30,7 @@ Adobe charges a [“cancellation fee”](https://helpx.adobe.com/manage-account/
 - Is it ethical to force users to agree with future policy and privacy changes upon paying for a subscription? Should they offer a window upon policy changes? On updates?
 
 
-###Industry Standards
+### Industry Standards
 
 Adobe is considered the “industry standard” for any job or business that utilize any of the software it offers. Proficiency in Adobe’s software is even listed a prerequisite for many job opportunities on the market. But it’s pricing models and turn to AI is something that many consumers have seen as a boiling point in their patience with the company.  
 
@@ -40,9 +40,9 @@ Adobe is considered the “industry standard” for any job or business that uti
 
 DeviantArt DreamUp / Twitter (X)’s Grok Image Generator - Should people have to opt-out of these sorts of things? Is it ethical for companies to scrape data already posted by its users before agreeing to terms? There's a clear weigh in favor of companies. 
 
-## See more
 
-## See more
+
+#### See more
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 

@@ -11,7 +11,7 @@ So what do we do about it?
 - Refunds (unlikely to be realistic)
 - Alternatively, partial refunds for selling licensing/cancelling software subscription 
 
-## Menu
+#### Menu
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 

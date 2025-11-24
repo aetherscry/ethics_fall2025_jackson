@@ -21,7 +21,7 @@ Alternate idea because I'm afraid I won't have enough time to actually go throug
 
 ["So what do we do about it?"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_solutions/)
 
-## See more
+#### See more
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 
