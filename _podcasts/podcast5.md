@@ -17,7 +17,7 @@ The article we had read for this podcast is linked [here](https://online.ucpress
 Images Damien brought up (in order)
 
 Elon Musk's special whitelist:
-![](images/sponge.jpg) 
+![](images/sponge.png) 
 
 Meme on the Epstein Files emails:
-![](images/timonion.jpg)
+![](images/timonion.png)
