@@ -1,11 +1,33 @@
 ---
 permalink: /casestudy_games/
-title: '"Stop Killing Games"'
+title: 'Digital Game Ownership and the Cries of "Stop Killing Games"'
 author_profile: true
 layout: archive
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+## Background
+
+If you decided to click on this, you probably know a little bit about digital video game ownership. But as an overview, I'd like to talk about what "digital game ownership" actually is.
+
+Unlike purchasing a physical cartridge to slip into your video game consoles, users have been given an option to purchase video games online. There are a ton of easy-to-use digital stores, depending on the video game console or device you are using. 
+
+A few examples:
+- Nintendo eShop (Nintendo Switch, Nintendo Switch 2, previously on Wii, WiiU, 3DS, etc.)
+- Playstation Store (Playstation devices)
+- Microsoft Store (Windows/PC, Xbox)
+- Steam (PC, Steam Deck)
+
+But purchasing a video game is a little different than a physical copy. Instead of purchasing the "thing you put into the device," you are instead granted access to downloading a copy of the game over the internet. 
+
+This is an important disctinction. You can't simply hand pass around a digital copy of a game, like you might let a friend borrow a book. Generally, you are given a **license to use** the the software when purchasing a game online. 
+
+Simply, think of it as a way for companies to avoid consumers illegally reproducing their game: if a user can create infinite copies after purchasing ownership to a game, that would be detrimental to the market.
+
+So instead, what you purchase when "buying a digital copy of a game," you are not given ownership, rather a license. These licenses are typically granted to the account you had made the purchase on. And there are terms that can be set by the seller to influence what can be done with that download. This also implies the potential right to the seller to revoke the license, therefore leaving you unable to buy the game you had purchased. Additionally, they are able to modify the Terms of Service and updates to the game as they see fit. 
+
+If you would like to read more, there is a more in-depth article here: ["Do You Permanently Own Digital Games? Unraveling the Truth About Digital Ownership"](https://www.gameslearningsociety.org/wiki/do-you-permanently-own-digital-games/)
+
+--
 
 ## What is "Stop Killing Games?"
 
@@ -25,6 +47,7 @@ There are methods of defense these publishers may take in response. For example,
 
 Regardless of legal outcomes in each country the movement is being discussed in, there are many questions and arguments that have been raised throughout this case.
 
+---
 
 ## Servers | City of Heroes & Club Penguin Rewritten
 A big point of discussion in the movement is about what to do when companies no longer want to host game servers. 
@@ -55,6 +78,7 @@ This is similar to arguments around piracy.
 
 When consumers sign up for these games in the first place, they are never given the expiration date. So, is it fair to accept when discontinuation happens and move on to something else? Should it become common practice for companies to allow players themselves to take-on the support for their game?
 
+---
 
 ## Refunds | The Crew
 
@@ -97,9 +121,9 @@ Consumers were not given an expiration date for the game they were purchasing. W
 
 Refunds are a complicated topic for the sheer variety of games on the market, and the variety of games that are shut down. Personally, I don’t see refunds being the solution for consumer rights in video games. It’s something that I see companies pushing back against, and something that’s difficult to find a reaspnable middle ground on. 
 
+---
 
-
-#### See more
+## See more
 
 ["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
 

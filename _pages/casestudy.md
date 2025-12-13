@@ -4,16 +4,18 @@ title: "Case Study"
 author_profile: true
 ---
 
-Hello! Welcome to my Case Study. 
+# Digital "Ownership" 
 
-Topic: "Analysis of the “Stop Killing Games” Problem & Ethics of TOS Changes w/ Digital Ownership"
+Do you really own digital copies of games or software? (No, not really.)
 
-## Overview
+## Overview | "DJ, what are you talking about?"
 
 This page will have some of the necessary background needed to understand what I'm talking about
 
 - What is a digital license?
 - What is the difference between a digital license and a physical good?
+
+---
 
 ## See more
 
