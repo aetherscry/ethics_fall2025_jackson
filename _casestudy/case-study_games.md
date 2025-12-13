@@ -2,7 +2,7 @@
 permalink: /casestudy_games/
 title: '"Stop Killing Games"'
 author_profile: true
-layout: default
+layout: archive
 ---
 
 This is a page not in the menu. You can use markdown in this page.
@@ -32,7 +32,7 @@ A big point of discussion in the movement is about what to do when companies no 
 
 Scott doesn’t believe that game developers need to continue support server life infinitely by themselves, he proposes to find a compromise in this regard. For example, fans had secretly kept alive a [*City of Heroes*](https://en.wikipedia.org/wiki/City_of_Heroes) server online after the popular MMO had been shut down by NCsoft. After the server’s existence was leaked to the public, NCsoft had opted to give the fans an official license to keep the IP alive. Of course, other projects have not had such luck, such as [*Club Penguin Rewritten*](https://en.wikipedia.org/wiki/Club_Penguin_Rewritten), a fan server of the original [*Club Penguin*](https://en.wikipedia.org/wiki/Club_Penguin) owned by Disney. This project was shut down in 2022 by Disney, the website had been taken over by the City of London Police, and three suspects were arrested (and later released). 
 
-#### Developer Side
+### Developer Side
 
 
 Game developers have very mixed reactions to fans taking over the servers of the games they have created. Disney, in particular, has a reputation for being very defensive of their IP and how it’s portrayed. There’s a lot of hesitancy for game developers to hand over the reputation of their game to a fandom.  
@@ -42,7 +42,7 @@ How do you select who in the community to give a license to host servers to? Wha
 If a game is poorly managed by fan bases, the company has the potential to take the hit for it via reputational damage. 
 
 
-#### Consumer Side
+### Consumer Side
 
 
 On the other hand, though, letting games be shut down is an indication that they no longer want anything to do with the IP. Personally speaking, I believe that there are far more benefits to handing over permission to willing fans to continue running games that have died. 
@@ -71,7 +71,7 @@ In Ubisoft’s initial announcement of the shutting down of servers, the company
 This brings up another aspect to consider when thinking about the consumers have when purchasing digital games. If a game ends service, should compensation be dispersed if the copy is now obsolete? 
 
 
-#### Company Side
+### Company Side
 
 
 Giving out refunds for shut-down games sounds completely unrealistic on its face. After all, the consumer had purchased the license for the product, and were also delivered the product under the knowledge that online services are likely to end at some point. There is much room for reasonable doubt on the feasibility of refunds:   
@@ -85,7 +85,7 @@ How can you verify if an individual had even purchased the game in the first pla
 These are merely a few of the logistical questions that may come up immediately. 
 
 
-#### Consumer Side
+### Consumer Side
 
 
 If you had just purchased a game, and it’s immediately shut down, that can cause a lot of frustration. But, this is a rare instance. And there are other reasons people may argue for the case of refunds:
@@ -95,7 +95,7 @@ Ross Scott, for example, argues that video games are not services, they are good
 Consumers were not given an expiration date for the game they were purchasing. What if they’re still playing, or still want to down the line? Are they meant to cut the loss of value they didn’t get from their purchase?
 
 
-Refunds are a complicated topic for the sheer variety of games on the market, and the variety of games that are shut down. Personally, I don’t see refunds being the solution for consumer rights in video games. It’s something that I see companies pushing back against, and something that’s difficult to find a logical middle ground on. 
+Refunds are a complicated topic for the sheer variety of games on the market, and the variety of games that are shut down. Personally, I don’t see refunds being the solution for consumer rights in video games. It’s something that I see companies pushing back against, and something that’s difficult to find a reaspnable middle ground on. 
 
 
 
