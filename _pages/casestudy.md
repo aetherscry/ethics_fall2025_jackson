@@ -4,16 +4,19 @@ title: "Case Study"
 author_profile: true
 ---
 
-# Digital "Ownership" 
+# Digital "Ownership" and Terms of Service
 
 Do you really own digital copies of games or software? (No, not really.)
 
+We'll be talking about gaming, ToS, Adobe's greed, and more.
+
 ## Overview | "DJ, what are you talking about?"
 
-This page will have some of the necessary background needed to understand what I'm talking about
+Digital licenses are something almost all of us deal with. From buying a video game off Steam, to buying a Adobe Photoshop subscription.
 
-- What is a digital license?
-- What is the difference between a digital license and a physical good?
+But do we really *own* the things we purchase? Do we get any say in our copies or licenses upon purchase? What does it even mean to have a license?
+
+This case study goes over a few areas of digital "ownership," and discusses the conversations we can have about the ethics around them. 
 
 ---
 
@@ -26,5 +29,3 @@ This page will have some of the necessary background needed to understand what I
 ["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
 ["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
-
-## Sources

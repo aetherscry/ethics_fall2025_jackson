@@ -2,7 +2,7 @@
 permalink: /casestudy_citations/
 title: "Citation Masterlist"
 author_profile: true
-layout: default
+layout: archive
 ---
 
 ## Sources

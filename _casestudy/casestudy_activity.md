@@ -2,7 +2,7 @@
 permalink: /casestudy_activity/
 title: "Case Study"
 author_profile: true
-layout: default
+layout: archive
 ---
 
 This will be where the activity will go

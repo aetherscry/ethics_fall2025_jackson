@@ -2,7 +2,7 @@
 permalink: /casestudy_tools/
 title: "Digital Tools"
 author_profile: true
-layout: default
+layout: archive
 ---
 
 This is about licenses/websites that propose a service & subscription, but can totally upgrade their TOS to something that YOU didn't pay for.
