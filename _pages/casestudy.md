@@ -4,6 +4,8 @@ title: "Case Study"
 author_profile: true
 ---
 
+---
+
 # Digital "Ownership" and Terms of Service
 
 Do you really own digital copies of games or software? (No, not really.)
@@ -20,12 +22,14 @@ This case study goes over a few areas of digital "ownership," and discusses the 
 
 ---
 
-## See more
+## Take a Look
+
+Here, I will be splitting up the conversation into different areas that may be more of interest to you than others:
+
+["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 
 ["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
 
-["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
-
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
+[Skip to Activity](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)

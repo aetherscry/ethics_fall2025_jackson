@@ -5,7 +5,9 @@ author_profile: true
 layout: archive
 ---
 
+
 ## Background
+
 
 If you decided to click on this, you probably know a little bit about digital video game ownership. But as an overview, I'd like to talk about what "digital game ownership" actually is.
 
@@ -19,7 +21,7 @@ A few examples:
 
 But purchasing a video game is a little different than a physical copy. Instead of purchasing the "thing you put into the device," you are instead granted access to downloading a copy of the game over the internet. 
 
-This is an important disctinction. You can't simply hand pass around a digital copy of a game, like you might let a friend borrow a book. Generally, you are given a **license to use** the the software when purchasing a game online. 
+This is an important disctinction. You can't simply hand pass around a digital copy of a game, like you might let a friend borrow a book. Generally, you are given a [**license to use**](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/) the the software when purchasing a game online. 
 
 Simply, think of it as a way for companies to avoid consumers illegally reproducing their game: if a user can create infinite copies after purchasing ownership to a game, that would be detrimental to the market.
 
@@ -27,9 +29,11 @@ So instead, what you purchase when "buying a digital copy of a game," you are no
 
 If you would like to read more, there is a more in-depth article here: ["Do You Permanently Own Digital Games? Unraveling the Truth About Digital Ownership"](https://www.gameslearningsociety.org/wiki/do-you-permanently-own-digital-games/)
 
+
 --
 
 ## What is "Stop Killing Games?"
+
 
 “Stop Killing Games:”
 	> <q>‘Stop Killing Games’ is a consumer movement started to challenge the legality of publishers destroying video games they have sold to customers. An increasing number of video games are sold effectively as goods - with no stated expiration date - but designed to be completely unplayable as soon as support from the publisher ends. This practice is a form of planned obsolescence and is not only detrimental to customers, but makes preservation effectively impossible.</q> &8211;Stop Killing Games Website
@@ -47,13 +51,16 @@ There are methods of defense these publishers may take in response. For example,
 
 Regardless of legal outcomes in each country the movement is being discussed in, there are many questions and arguments that have been raised throughout this case.
 
+
 ---
+
 
 ## Servers | City of Heroes & Club Penguin Rewritten
 A big point of discussion in the movement is about what to do when companies no longer want to host game servers. 
 
 
 Scott doesn’t believe that game developers need to continue support server life infinitely by themselves, he proposes to find a compromise in this regard. For example, fans had secretly kept alive a [*City of Heroes*](https://en.wikipedia.org/wiki/City_of_Heroes) server online after the popular MMO had been shut down by NCsoft. After the server’s existence was leaked to the public, NCsoft had opted to give the fans an official license to keep the IP alive. Of course, other projects have not had such luck, such as [*Club Penguin Rewritten*](https://en.wikipedia.org/wiki/Club_Penguin_Rewritten), a fan server of the original [*Club Penguin*](https://en.wikipedia.org/wiki/Club_Penguin) owned by Disney. This project was shut down in 2022 by Disney, the website had been taken over by the City of London Police, and three suspects were arrested (and later released). 
+
 
 ### Developer Side
 
@@ -78,7 +85,9 @@ This is similar to arguments around piracy.
 
 When consumers sign up for these games in the first place, they are never given the expiration date. So, is it fair to accept when discontinuation happens and move on to something else? Should it become common practice for companies to allow players themselves to take-on the support for their game?
 
+
 ---
+
 
 ## Refunds | The Crew
 
@@ -121,18 +130,16 @@ Consumers were not given an expiration date for the game they were purchasing. W
 
 Refunds are a complicated topic for the sheer variety of games on the market, and the variety of games that are shut down. Personally, I don’t see refunds being the solution for consumer rights in video games. It’s something that I see companies pushing back against, and something that’s difficult to find a reaspnable middle ground on. 
 
+
 ---
 
-## See more
+
+## See More
+
+["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
 ["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
-
-["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
 ["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
 
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
-
-## Sources
-
-["Stop Killing Games"](https://www.stopkillinggames.com/)

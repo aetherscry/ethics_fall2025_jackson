@@ -15,14 +15,18 @@ It's easy to feel a little bleak when a software you like changes for the worse.
 
 I hold the belief that if something is wrong, be annoying about it. Don't shut up about it. Bring it up on social media, who is gonna stop you? Being obnoxious gets people to listen. 
 
-#### Menu
+## Menu
+
+["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
 ["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
 
 ["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
 
-["Digital Licenses & Consumer Rights Conversations"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
-
 ["Back to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
 
 ["Return to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+
+## Sources
+
+[Gaber, T. - "A License Revocation Protocol Supporting Digital License Reselling in a Consumer-to-Consumer Model"](https://www.webofscience.com/wos/woscc/full-record/WOS:000419456400017)
