@@ -55,7 +55,7 @@ We do not "own" digital items in the same way we purchase physical ones.
 
 Typically, you make an account of some kind to interact with digital stores. **The product is then tied to the account you interact through.** Not necessarily *you,* the human being. 
 
-> Note: This also can be complicated. Sometimes companies forbid users from "sharing accounts" (One person buys a product on an account they create, then give other people the username and password)
+> Note: This also can be complicated. Sometimes companies forbid users from "sharing accounts" (One person buys a product on an account they create, then give other people the username and password). Others may allow users to share among family. So, who really owns the account?
 
 
 ### Company Side
@@ -82,6 +82,9 @@ Before *home video* had ever been a thing, preserving movies and films had never
 With the way it's becoming so difficult to consistently get access to movies that they love, consumers worry about another age of missing media. With the death of physical DVDs and the influence of streaming services, consumers worry about streaming services dropping the ball on archiving media.
 
 It's not to mention the frustration of consumers suddenly losing the media they signed up to a particular service for in the first place. When media suddenly jumps around from one service to another, it's more hassle than it's worth to cancel one subscription and move to the other. And it's not exactly reasonable to expect consumers to pay for multiple subscriptions, especially when they all have the same problem.  
+
+
+---
 
 
 ## See More

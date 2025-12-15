@@ -5,11 +5,10 @@ author_profile: true
 layout: archive
 ---
 
+*Games, unlimited games, but no games.*
 
 ## Background
 
-
-If you decided to click on this, you probably know a little bit about digital video game ownership. But as an overview, I'd like to talk about what "digital game ownership" actually is.
 
 Unlike purchasing a physical cartridge to slip into your video game consoles, users have been given an option to purchase video games online. There are a ton of easy-to-use digital stores, depending on the video game console or device you are using. 
 
@@ -27,17 +26,16 @@ Simply, think of it as a way for companies to avoid consumers illegally reproduc
 
 So instead, what you purchase when "buying a digital copy of a game," you are not given ownership, rather a license. These licenses are typically granted to the account you had made the purchase on. And there are terms that can be set by the seller to influence what can be done with that download. This also implies the potential right to the seller to revoke the license, therefore leaving you unable to buy the game you had purchased. Additionally, they are able to modify the Terms of Service and updates to the game as they see fit. 
 
-If you would like to read more, there is a more in-depth article here: ["Do You Permanently Own Digital Games? Unraveling the Truth About Digital Ownership"](https://www.gameslearningsociety.org/wiki/do-you-permanently-own-digital-games/)
+See more[^1]
 
-
---
+---
 
 ## What is "Stop Killing Games?"
 
 
 “Stop Killing Games:”
 	> <q>‘Stop Killing Games’ is a consumer movement started to challenge the legality of publishers destroying video games they have sold to customers. An increasing number of video games are sold effectively as goods - with no stated expiration date - but designed to be completely unplayable as soon as support from the publisher ends. This practice is a form of planned obsolescence and is not only detrimental to customers, but makes preservation effectively impossible.</q> &8211;Stop Killing Games Website
-Stop Killing Games is a movement that started in April 2024 by a YouTuber named [Ross Scott (also known as Accursed Farms)](https://www.youtube.com/@Accursed_Farms). Scott had launched this campaign and official [website](https://www.stopkillinggames.com/) in a [video](https://www.youtube.com/watch?v=w70Xc9CStoE) on his YouTube page on April 2nd, 2024. Scott has been openly critical of the way that video game publishers have poorly treated and shut down their IP, his critiques dating as early as 2013 in a [game review](https://www.youtube.com/watch?v=68zZZn8wy4E) about the game [*Test Drive 3*](https://en.wikipedia.org/wiki/Test_Drive_III:_The_Passion). 
+Stop Killing Games is a movement that started in April 2024 by a YouTuber named Ross Scott (also known as Accursed Farms).[^2] Scott had launched this campaign and official website[^3] in a video[^4] on his YouTube page on April 2nd, 2024. Scott has been openly critical of the way that video game publishers have poorly treated and shut down their IP, his critiques dating as early as 2013 in a game review[^5] about the game [*Test Drive 3*](https://en.wikipedia.org/wiki/Test_Drive_III:_The_Passion). 
 
 
 > <q>It pisses me off to no end when a company simply sits on intellectual property, and lets games they don’t even care about die.</q> &#8211;Ross Scott, 10/27/13
@@ -46,7 +44,7 @@ Stop Killing Games is a movement that started in April 2024 by a YouTuber named 
 The movement launched to rally opposition to the game industry’s recurring practice of shutting down their game servers for their consumers. The movement has called for consumers to sign petitions to consumer rights protection regulators across the globe for change. The basis of these arguments is that–despite what game publishes may call them–video games are “goods,” not “services.” They should not become inoperable after being purchased. Scott advocates for game publishers to have contingency plans after games end service. 
 
 
-There are methods of defense these publishers may take in response. For example, Steam’s (a digital distribution service) [Subscriber Agreement](https://store.steampowered.com/subscriber_agreement) specifically uses the language that the games sold are **licenses**: something with the capacity to be revoked. 
+There are methods of defense these publishers may take in response. For example, Steam’s (a digital distribution service) Subscriber Agreement[^6] specifically uses the language that the games users purchase are **licenses**: something with the capacity to be revoked. 
 
 
 Regardless of legal outcomes in each country the movement is being discussed in, there are many questions and arguments that have been raised throughout this case.
@@ -55,7 +53,7 @@ Regardless of legal outcomes in each country the movement is being discussed in,
 ---
 
 
-## Servers | City of Heroes & Club Penguin Rewritten
+##  Servers | City of Heroes & Club Penguin Rewritten
 A big point of discussion in the movement is about what to do when companies no longer want to host game servers. 
 
 
@@ -92,13 +90,13 @@ When consumers sign up for these games in the first place, they are never given 
 ## Refunds | The Crew
 
 
-As previously stated, Ross Scott had been openly critical of the way that publishers “kill” their games. The game that seems to have pushed Scott towards finally launching this campaign was the shutdown of the game [*The Crew*](https://thecrew.fandom.com/wiki/The_Crew) by Ubisoft. In a [video response](https://www.youtube.com/watch?v=VIqyvquTEVU) to this game’s shutdown, Ross began to pose his ideas to take tangible legal action. *Stop Killing Games* had launched only a few months after this video had been published.
+As previously stated, Ross Scott had been openly critical of the way that publishers “kill” their games. The game that seems to have pushed Scott towards finally launching this campaign was the shutdown of the game [*The Crew*](https://thecrew.fandom.com/wiki/The_Crew) by Ubisoft. In a video response[^7] to this game’s shutdown, Ross began to pose his ideas to take tangible legal action. *Stop Killing Games* had launched only a few months after this video had been published.
 
 
 In Ubisoft’s initial announcement of the shutting down of servers, the company had allegedly* <sub>(see Note)</sub> stated players may apply for a refund if they had purchased the game “recently.” The definition of the word “recent” had been quite vague, leaving it up to whichever platform the game was purchased from.
 
 
-> Note: As of writing, I cannot find a functional link to Ubisoft’s original statement. The statement about refunds is based on secondhand writing from [Chalk’s PC Gamer article](https://www.pcgamer.com/the-crew-removed-from-sale-will-become-unplayable-after-april-1-we-understand-this-may-be-disappointing-for-players-still-enjoying-the-game/).
+> Note: As of writing, I cannot find a functional link to Ubisoft’s original statement. The statement about refunds is based on secondhand writing from Chalk’s PC Gamer article[^8]
 
 
 This brings up another aspect to consider when thinking about the consumers have when purchasing digital games. If a game ends service, should compensation be dispersed if the copy is now obsolete? 
@@ -143,3 +141,23 @@ Refunds are a complicated topic for the sheer variety of games on the market, an
 ["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
 
 ["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+
+
+***
+Footnotes
+
+[^1]: [GLS Team - "Do You Permanently Own Digital Games? Unraveling the Truth About Digital Ownership" (2025)](https://www.gameslearningsociety.org/wiki/do-you-permanently-own-digital-games/)
+
+[^2]: [Accursed Farms Youtube Channel (Accessed 2025)](https://www.youtube.com/@Accursed_Farms)
+
+[^3]: [Scott, R. - Stop Killing Games Website (Accessed 2025)](https://www.stopkillinggames.com/)
+
+[^4]: [Accursed Farms - "The largest campaign ever to stop publishers destroying games" (2024)](https://www.youtube.com/watch?v=w70Xc9CStoE)
+
+[^5]: [Accursed Farms - "Ross's Game Dungeon: Test Drive 3" (2013)](https://www.youtube.com/watch?v=68zZZn8wy4E)
+
+[^6]: [Steam - "Steam Subscriber Agreement" (Accessed 2025)](https://store.steampowered.com/subscriber_agreement)
+
+[^7]: [Accursed Farms - "Dead Game News: The Crew" (2024)](https://www.youtube.com/watch?v=VIqyvquTEVU)
+
+[^8]: [Chalk, A. - "The Crew removed from sale, will become unplayable after April 1: 'We understand this may be disappointing for players still enjoying the game'" (2023)](https://www.pcgamer.com/the-crew-removed-from-sale-will-become-unplayable-after-april-1-we-understand-this-may-be-disappointing-for-players-still-enjoying-the-game/)

@@ -54,7 +54,7 @@ I initally wanted to have a small MS-paint or notebook-like program:
 ---
 
 
-## See more
+## See More
 
 ["What is Digital Ownership, really?"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
 
