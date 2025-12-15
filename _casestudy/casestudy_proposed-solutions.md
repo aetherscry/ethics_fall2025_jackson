@@ -1,6 +1,6 @@
 ---
 permalink: /casestudy_solutions/
-title: "Are there Soluations??"
+title: "Are there Solutions??"
 author_profile: true
 layout: archive
 ---
