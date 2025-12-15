@@ -29,7 +29,7 @@ Here are a few things to keep in mind throughout watching:
 
 - Clip Studio Paint, for example, allows users to fully customize the interface they use when illustrating. Do you think customizable interfaces could be applied to other software you use? (Social media, internet browsers, messaging platforms, etc.) Why or why not?
 
-- Do you notice any hesitation or confusion when looking for tools between each adjustment? (This may be difficult, as the video is in 5x speed.)
+- Do you notice any hesitation or confusion when looking for tools between each adjustment? (This may be difficult, as the video is in 5x speed. Sorry.)
 
 - Have you ever had any frustrating experiences with software interfaces before? What had been frustrating about it? Did you experience the frustration when you first started using the software, or did you experience it after an update?
 

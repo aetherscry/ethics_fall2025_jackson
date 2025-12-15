@@ -30,6 +30,11 @@ Adobe charges a “cancellation fee”[^4] for users ending their subscriptions 
 
 - Is it ethical to force users to agree with future policy and privacy changes upon paying for a subscription? Should they offer a window upon policy changes? On updates?
 
+I personally struggle to see a case where they're necessary, so I will refrain from commenting. Though, I would like to know what you think on the topic. I invite you to think about it. 
+
+
+---
+
 
 ### Industry Standards
 
@@ -37,16 +42,27 @@ Adobe charges a “cancellation fee”[^4] for users ending their subscriptions 
 Adobe is considered the “industry standard” for any job or business that utilize any of the software it offers. Proficiency in Adobe’s software is even listed a prerequisite for many job opportunities on the market. But it’s pricing models and turn to AI is something that many consumers have seen as a boiling point in their patience with the company.  
 
 
+### Company Side
+
+
+Becoming an "industry standard" is by no means an easy feat. It's something only accomplished by few who set out to do it, and usually for good reason. An industry standard is typically regarded as a product of quality. It's good enough for businesses to entrust their employees to work through their services. That reputation isn't something obtained lightly.
+
+Additionally, a software being used in larger-scaled operations is more likely to give discounts to providing licenses in bulk. This can be incredibly useful for companies to get a quick start, and makes it easier to adjust for a growing/shrinking employee count. 
+
+
+### Consumer Side
+
+
+Although, on the contrary, an "industry standard" doesn't always stack up to the alternative. Artists, for example, find a lot of problems with programs such as Adobe Illustrator and Adobe Photoshop. There are many more accessible, budget-friendly programs that are being overshadowed by Adobe. You can find dozens of digital art programs online that are highly praised by those who use it. 
+
+But that's exactly where this problem seems to arrise. Adobe is a household name because of the areas of service it covers. From video editing to PDF management, it's provided a reliable tool for many areas. It's household-name status makes it easy for people looking for something quick and reliable to latch on to. And many job listings ask for Adobe proficiency by name. 
+
+This leads many to feel pressured into buying Adobe just because that's what employers look for. Artists are *expected* to buy the service, and theres very little room to adjust outside of this expectation.
+
+
 ---
 
 
-## Image Generation vs. Artists
-
-
-DeviantArt DreamUp / Twitter (X)’s Grok Image Generator - Should people have to opt-out of these sorts of things? Is it ethical for companies to scrape data already posted by its users before agreeing to terms? There's a clear weigh in favor of companies. 
-
-
----
 
 
 ## See more
