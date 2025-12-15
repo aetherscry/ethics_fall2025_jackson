@@ -50,7 +50,3 @@ layout: archive
 [Adobe - "Content analysis FAQ" (Accessed 2025)](https://helpx.adobe.com/manage-account/using/machine-learning-faq.html)
 
 [Adobe - "Understand Adobe's subscription terms and refund policies" (Accessed 2025)](https://helpx.adobe.com/manage-account/using/creative-cloud-subscription-terms.html)
-
-
-## "Solutions"
-

@@ -99,7 +99,7 @@ It's not to mention the frustration of consumers suddenly losing the media they 
 
 
 ***
-**Footnotes**
+**Footnotes** - I'm so sorry they're so small, I couldn't figure out how to make them bigger 
 
 [^1]: [CourtListener - "McTyere v. Apple, Inc. (1:21-cv-01133)"](https://www.courtlistener.com/docket/60663740/mctyere-v-apple-inc/)
 

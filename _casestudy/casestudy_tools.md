@@ -61,7 +61,7 @@ DeviantArt DreamUp / Twitter (X)’s Grok Image Generator - Should people have t
 
 
 ***
-**Footnotes**
+**Footnotes** - I'm so sorry they're so small, I couldn't figure out how to make them bigger 
 
 [^1]: ["Adobe is updating its terms of service following a backlash over recent changes"](https://www.engadget.com/adobe-is-updating-its-terms-of-service-following-a-backlash-over-recent-changes-120044152.html)
 

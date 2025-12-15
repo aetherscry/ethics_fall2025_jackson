@@ -144,7 +144,7 @@ Refunds are a complicated topic for the sheer variety of games on the market, an
 
 
 ***
-Footnotes
+**Footnotes** - I'm so sorry they're so small, I couldn't figure out how to make them bigger 
 
 [^1]: [GLS Team - "Do You Permanently Own Digital Games? Unraveling the Truth About Digital Ownership" (2025)](https://www.gameslearningsociety.org/wiki/do-you-permanently-own-digital-games/)
 
