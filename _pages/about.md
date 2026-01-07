@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! This website exists to document my learning in my CSCI course! This page has some general information about me. You can use the tabs located at the top of this page to navigate to other parts of the website. They'll be updated as I go!
+Hello! This is a website I had created to document my learning through my CSCI courses at St. Olaf. Here I plan to expand and improve upon my learning throughout my career. 
 
 About Me
 ---
