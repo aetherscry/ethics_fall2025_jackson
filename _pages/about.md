@@ -11,12 +11,14 @@ Hello! This website exists to document my learning in my CSCI course! This page 
 
 About Me
 ---
-My name is Damien Jackson. I’m a Computer Science student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. Additionally, I'm working towards a Concentration in the [Education](https://wp.stolaf.edu/education/) department! I'm earning my B.S in Computer Science. 
+My name is DJ. I’m a Computer Science student in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. Additionally, I'm working towards a Concentration in the [Education](https://wp.stolaf.edu/education/) department! I'm earning my B.S in Computer Science, and a TEFL certification. 
 
 Research 
 ---
-I have an interest in robotics, it's something I've found to be fascinating since I was young. I don't have much hands-on experience with it, but I would love to learn more about it!
+I have a particular interest in user rights and legal protections in the digital space. This is something I've explored in my [case study](https://aetherscry.github.io/aethersite/casestudy/) on this website. 
+
+I also have an interest in cybersecurity, something I'm currently taking a course on as of January 2026. 
 
 Personal Life
 ---
-I really love art and hands-on hobbies. I am a freelance digital artist and character designer in my free time. Additionally, I play a ton of video games. I feel like they intersect with Computer Science in some ways, but maybe I'm just biased!
+I really love art and hands-on hobbies. I am a freelance digital artist and character designer in my free time.
