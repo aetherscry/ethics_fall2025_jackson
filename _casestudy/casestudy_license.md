@@ -89,13 +89,13 @@ It's not to mention the frustration of consumers suddenly losing the media they 
 
 ## See More
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
+["Digital Video Games"](https://aetherscry.github.io/aethersite/casestudy_games/)
 
-["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
+["Digital Software Tools & Websites"](https://aetherscry.github.io/aethersite/casestudy_tools/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
+["Skip to Activity"](https://aetherscry.github.io/aethersite/casestudy_activity/)
 
-["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+["Back to Main"](https://aetherscry.github.io/aethersite/casestudy/)
 
 
 ***

@@ -36,17 +36,17 @@ Thanks for reading through.
 > -DJ
 
 
-[Full Citation List](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_citations/)
+[Full Citation List](https://aetherscry.github.io/aethersite/casestudy_citations/)
 
 
 ## Menu
 
-["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
+["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/aethersite/casestudy_license/)
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
+["Digital Video Games"](https://aetherscry.github.io/aethersite/casestudy_games/)
 
-["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
+["Digital Software Tools & Websites"](https://aetherscry.github.io/aethersite/casestudy_tools/)
 
-["Back to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
+["Back to Activity"](https://aetherscry.github.io/aethersite/casestudy_activity/)
 
-["Return to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+["Return to Main"](https://aetherscry.github.io/aethersite/casestudy/)

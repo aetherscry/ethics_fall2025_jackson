@@ -20,7 +20,7 @@ A few examples:
 
 But purchasing a video game is a little different than a physical copy. Instead of purchasing the "thing you put into the device," you are instead granted access to downloading a copy of the game over the internet. 
 
-This is an important disctinction. You can't simply hand pass around a digital copy of a game, like you might let a friend borrow a book. Generally, you are given a [**license to use**](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/) the the software when purchasing a game online. 
+This is an important disctinction. You can't simply hand pass around a digital copy of a game, like you might let a friend borrow a book. Generally, you are given a [**license to use**](https://aetherscry.github.io/aethersite/casestudy_license/) the the software when purchasing a game online. 
 
 Simply, think of it as a way for companies to avoid consumers illegally reproducing their game: if a user can create infinite copies after purchasing ownership to a game, that would be detrimental to the market.
 
@@ -134,17 +134,17 @@ Refunds are a complicated topic for the sheer variety of games on the market, an
 
 ## See More
 
-["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
+["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/aethersite/casestudy_license/)
 
-["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
+["Digital Software Tools & Websites"](https://aetherscry.github.io/aethersite/casestudy_tools/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
+["Skip to Activity"](https://aetherscry.github.io/aethersite/casestudy_activity/)
 
-["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+["Back to Main"](https://aetherscry.github.io/aethersite/casestudy/)
 
 
 ***
-**Footnotes** - I'm so sorry they're so small, I couldn't figure out how to make them bigger 
+**Footnotes** - I'm so sorry they're so small, I couldn't figure out how to make them bigger. Please refer to citations at the end of the activity for a more legible list. 
 
 [^1]: [GLS Team - "Do You Permanently Own Digital Games? Unraveling the Truth About Digital Ownership" (2025)](https://www.gameslearningsociety.org/wiki/do-you-permanently-own-digital-games/)
 

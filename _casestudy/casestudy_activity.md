@@ -48,7 +48,7 @@ I initally wanted to have a small MS-paint or notebook-like program:
 ---
 
 
-## [So, what do we do about it now?](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_solutions/)
+## [So, what do we do about it now?](https://aetherscry.github.io/aethersite/casestudy_solutions/)
 
 
 ---
@@ -56,10 +56,10 @@ I initally wanted to have a small MS-paint or notebook-like program:
 
 ## See More
 
-["What is Digital Ownership, really?"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
+["What is Digital Ownership, really?"](https://aetherscry.github.io/aethersite/casestudy_license/)
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
+["Digital Video Games"](https://aetherscry.github.io/aethersite/casestudy_games/)
 
-["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
+["Digital Software Tools & Websites"](https://aetherscry.github.io/aethersite/casestudy_tools/)
 
-["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+["Back to Main"](https://aetherscry.github.io/aethersite/casestudy/)

@@ -67,13 +67,13 @@ This leads many to feel pressured into buying Adobe just because that's what emp
 
 ## See more
 
-["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
+["What is Digital Ownership, really?" + "Movies & Music"](https://aetherscry.github.io/aethersite/casestudy_license/)
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
+["Digital Video Games"](https://aetherscry.github.io/aethersite/casestudy_games/)
 
-["Skip to Activity"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
+["Skip to Activity"](https://aetherscry.github.io/aethersite/casestudy_activity/)
 
-["Back to Main"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy/)
+["Back to Main"](https://aetherscry.github.io/aethersite/casestudy/)
 
 
 ***
