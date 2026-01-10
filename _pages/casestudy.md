@@ -32,11 +32,11 @@ This case study goes over a few areas of digital "ownership," and discusses the 
 
 Here, I will be splitting up the conversation into different areas that may be more of interest to you than others:
 
-["What is Digital Ownership, really?" + "Movies & Music" (Recommended to read first)](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_license/)
+["What is Digital Ownership, really?" + "Movies & Music" (Recommended to read first)](https://aetherscry.github.io/aethersite/casestudy_license/)
 
-["Digital Video Games"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_games/)
+["Digital Video Games"](https://aetherscry.github.io/aethersite/casestudy_games/)
 
-["Digital Software Tools & Websites"](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_tools/)
+["Digital Software Tools & Websites"](https://aetherscry.github.io/aethersite/casestudy_tools/)
 
 
 ---
@@ -45,8 +45,8 @@ Here, I will be splitting up the conversation into different areas that may be m
 ## Other
 
 
-[Skip to Activity](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_activity/)
+[Skip to Activity](https://aetherscry.github.io/aethersite/casestudy_activity/)
 
-[Skip to the end](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_solutions/)
+[Skip to the end](https://aetherscry.github.io/aethersite/casestudy_solutions/)
 
-[Sources](https://aetherscry.github.io/ethics_fall2025_jackson/casestudy_citations/)
+[Sources](https://aetherscry.github.io/aethersite/casestudy_citations/)
